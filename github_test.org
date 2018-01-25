@@ -7,5 +7,6 @@ This is a trial repository, and hence, useless for you.
 ** Local modification
 It is quite difficult to manage ac-mozc behaviour.
 
+How about further modification ?
 
 End of buffer
