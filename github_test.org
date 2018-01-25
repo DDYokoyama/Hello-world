@@ -1,6 +1,8 @@
 * Hello-world
 This is a trial repository, and hence, useless for you.
 
+Can this be done ??
+
 ** Treatment of Japanese
 そういえば日本語はオーケーなのだろうか？
 
