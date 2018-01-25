@@ -4,5 +4,8 @@ This is a trial repository, and hence, useless for you.
 ** Treatment of Japanese
 そういえば日本語はオーケーなのだろうか？
 
+** Local modification
+It is quite difficult to manage ac-mozc behaviour.
+
 
 End of buffer
