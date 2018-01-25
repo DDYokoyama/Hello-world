@@ -12,5 +12,4 @@ It is quite difficult to manage ac-mozc behaviour.
 How about further modification ?
 
 
-
 End of buffer
