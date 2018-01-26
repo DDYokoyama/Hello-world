@@ -3,6 +3,10 @@ This is a trial repository, and hence, useless for you.
 
 Can this be done ??
 
+** Note
+- SourceTree can push local files directly to the master branch!
+
+
 ** Treatment of Japanese
 そういえば日本語はオーケーなのだろうか？
 
